@@ -2,7 +2,7 @@
 
 This is a set of programs used by my Mindstorms NXT robot which can solve a rubiks cube. Will add additional information later.
 
-Requirements:
+Requirements:  
 Python 2.7.x  
 NXT-python (python2 branch) https://github.com/Eelviny/nxt-python  
 graphics.py http://mcsp.wartburg.edu/zelle/python/  
